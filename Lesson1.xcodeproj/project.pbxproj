@@ -13,7 +13,6 @@
 		9C435A2D1E69C06D00D298C7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C435A2B1E69C06D00D298C7 /* Main.storyboard */; };
 		9C435A2F1E69C06D00D298C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C435A2E1E69C06D00D298C7 /* Assets.xcassets */; };
 		9C435A321E69C06D00D298C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C435A301E69C06D00D298C7 /* LaunchScreen.storyboard */; };
-		9C435A3E1E69C68F00D298C7 /* Snoopy Card.png in Resources */ = {isa = PBXBuildFile; fileRef = 9C435A3D1E69C68F00D298C7 /* Snoopy Card.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +26,6 @@
 		9C435A2E1E69C06D00D298C7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C435A311E69C06D00D298C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9C435A331E69C06D00D298C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9C435A3D1E69C68F00D298C7 /* Snoopy Card.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Snoopy Card.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,7 +74,6 @@
 		9C435A221E69C06D00D298C7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9C435A3D1E69C68F00D298C7 /* Snoopy Card.png */,
 				9C435A231E69C06D00D298C7 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -140,7 +137,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9C435A3E1E69C68F00D298C7 /* Snoopy Card.png in Resources */,
 				9C435A321E69C06D00D298C7 /* LaunchScreen.storyboard in Resources */,
 				9C435A2F1E69C06D00D298C7 /* Assets.xcassets in Resources */,
 				9C435A2D1E69C06D00D298C7 /* Main.storyboard in Resources */,
@@ -315,6 +311,7 @@
 				9C435A381E69C06D00D298C7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
