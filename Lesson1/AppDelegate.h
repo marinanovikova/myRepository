@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <RETableViewManager/RETableViewManager.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 

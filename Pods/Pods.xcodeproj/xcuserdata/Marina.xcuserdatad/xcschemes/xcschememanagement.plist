@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-Lesson1.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>REFormattedNumberField.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RETableViewManager-RETableViewManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RETableViewManager.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>REValidation.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>29F3A6181FC74E2CCECF79582960025A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3DBC8D95533556741A15A4C563DD6C36</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>43B9F7499E9D48908C64A32AF364442B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C984D95C8A5D35675C09D028807DF82E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EBE23C1F0F8B27C711BC93E1D087EEAC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
